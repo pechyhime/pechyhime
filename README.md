@@ -4,7 +4,7 @@
 
 ```ts
 class Pechyhime {
-    ProgrammingLanguages: string[] = [ "C#", "Rust (maybe)", "C++ (maybe)", "Pascal (maybe)" ];
+    ProgrammingLanguages: string[] = [ "C#", "Rust (maybe)", "C++ (maybe)"];
     SpokenLanguages: string[] = [ "Ukrainian (native)", "Belarusian", "English", "Norwegian" ];
     Age: number = 19;
     Identity: string = "Trans♀ & Lesbian 🏳️‍⚧️💖";
