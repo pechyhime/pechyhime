@@ -1,5 +1,3 @@
-pechyhime/README.md
-
 ## 🌙 Andra Lisickaja — pechyhime 🍓
 
 > ✨ low-level curious . high-level gay . 100% translesbian energy 💕
