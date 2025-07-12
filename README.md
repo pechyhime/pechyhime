@@ -1,16 +1,14 @@
-## Hi there 👋
+pechyhime/README.md
 
-<!--
-**pechyhime/pechyhime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌙 Andra Lisickaja — pechyhime 🍓
 
-Here are some ideas to get you started:
+> ✨ low-level curious . high-level gay . 100% translesbian energy 💕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ts
+class Pechyhime {
+    ProgrammingLanguages: string[] = [ "C#", "Rust (maybe)", "C++ (maybe)", "Pascal (maybe)" ];
+    SpokenLanguages: string[] = [ "Ukrainian (native)", "Belarusian", "English", "Norwegian" ];
+    Age: number = 19;
+    Identity: string = "Trans♀ & Lesbian 🏳️‍⚧️💖";
+}
+
